@@ -1,3 +1,5 @@
+// middle section
+
 import Gallery from "./Gallery";
 import { Route, Routes } from "react-router-dom";
 import About from "./About";
