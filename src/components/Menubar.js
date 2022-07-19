@@ -4,6 +4,7 @@ const Menubar = () => {
       <div className="row">
         <div className="col-md-6"> first</div>
         <div className="col-md-6">first</div>
+        <div className="col-md-6">first</div>
       </div>
     </div>
   );
